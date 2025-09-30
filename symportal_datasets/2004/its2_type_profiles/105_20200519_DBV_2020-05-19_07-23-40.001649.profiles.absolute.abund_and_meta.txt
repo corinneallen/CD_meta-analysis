@@ -1,0 +1,15 @@
+ITS2 type profile UID		59675	59372
+Clade		C	C
+Majority ITS2 sequence		C1	C1
+Associated species		S. goreaui	S. goreaui
+ITS2 profile abundance local		4	2
+ITS2 profile abundance DB		4	33
+ITS2 type profile		C1-C21ak-C3ew-C1cu-C89c-C89b	C1/C1c-C1b
+104957	e4234	56422.0	0
+104958	e4235	45632.0	0
+104960	e4244	64599.0	0
+104959	e4243	79869.0	0
+104961	e4233b	0	18726.0
+104956	e4233	0	19726.0
+Sequence accession / SymPortal UID		2-873576-830-2090-873577-107894	2-308-4
+Average defining sequence proportions and [stdev]		0.559[0.017]-0.156[0.005]-0.105[0.009]-0.066[0.009]-0.064[0.006]-0.050[0.006]	0.866[0.009]-0.072[0.002]-0.063[0.010]
