@@ -1,0 +1,7 @@
+Species references
+LaJeunesse, T. C., D. T. Pettay, E. M. Sampayo, N. Phongsuwan, B. Brown, D. O. Obura, O. Hoegh-Guldberg and W. K. Fitt (2010). Long-standing environmental conditions, geographic isolation and host-symbiont specificity influence the relative ecological dominance and genetic diversification of coral endosymbionts in the genus Symbiodinium. Journal of Biogeography 37(5): 785-800.
+Trench, R. (2000). Validation of some currently used invalid names of dinoflagellates. Journal of Phycology 36(5): 972-972.	Trench, R. K. and R. J. Blank (1987). Symbiodinium microadriaticum Freudenthal, S. goreauii sp. nov., S. kawagutii sp. nov. and S. pilosum sp. nov.: Gymnodinioid dinoflagellate symbionts of marine invertebrates. Journal of Phycology 23(3): 469-481.
+LaJeunesse, T. C., D. C. Wham, D. T. Pettay, J. E. Parkinson, S. Keshavmurthy and C. A. Chen (2014). Ecologically differentiated stress-tolerant endosymbionts in the dinoflagellate genus Symbiodinium (Dinophyceae) Clade D are different species. Phycologia 53(4): 305-319.
+Freudenthal, H. D. (1962). Symbiodinium gen. nov. and Symbiodinium microadriaticum sp. nov., a Zooxanthella: Taxonomy, Life Cycle, and Morphology. The Journal of Protozoology 9(1): 45-52
+['Stand_alone_data_set_samples output by bcchume on 2020-03-24_00-33-40.530936; data_analysis ID: 97; Number of data_set objects as part of output = 1; Number of data_set objects as part of analysis = 65']
+Data_set ID: 436; Data_set name: camp_2020_coral_reefs; submitting_user: bcchume; time_stamp: 2019-10-09_09-11-54.800980

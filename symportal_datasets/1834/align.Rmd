@@ -1,0 +1,26 @@
+
+```{r}
+library(tidyverse)
+library(readxl)
+```
+
+```{r}
+ref <- readxl::read_excel("Sample IDs.xlsx") %>%
+  select(sample_name = `Sample ID`,
+         locality = Site,
+         host_genus = Species,
+         colony_id = `Colony ID`,
+         timepoint = Timepoint) %>%
+  mutate(sample_name = as.character(sample_name)) %>%
+  separate(host_genus, into = c("host_genus_meta", "host_species_meta"))
+
+meta <- read_csv("1834.csv") %>%
+  select(-host_genus_meta, -host_species_meta) %>%
+  separate(sample_name, into = c(LETTERS[1:5]), sep = "_", extra = "merge", remove = FALSE) %>%
+  left_join(., ref, by = c("D" = "sample_name")) %>%
+  select(index, sample_name, host_genus_meta, host_species_meta, published) %>%
+  mutate(published = "y")
+
+write_csv(meta, "1834.csv")
+```
+
