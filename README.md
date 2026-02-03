@@ -16,8 +16,8 @@ Coral reefs are experiencing unprecedented global declines driven by intensifyin
 ## Repository contents
 
 ### Data
-* **data/symportal_datasets**: Downloaded SymPortal datasets for 41 articles (its2_type_profiles and post_med_seqs files included for each article)
-* **data/symportal_metadata**: Downloaded SymPortal metadata files for 41 articles (its2_type_profiles and post_med_seqs files included for each article)
+* **symportal_datasets**: Downloaded SymPortal datasets for 41 articles (its2_type_profiles and post_med_seqs files included for each article)
+* **symportal_metadata**: Downloaded SymPortal metadata files for 41 articles (its2_type_profiles and post_med_seqs files included for each article)
 * **data/Table_S1**: List of articles returned from the literature search and their fates after the abstract/title screen and full text review
 * **data/Table_S2**: Term library that was used to sort articles
 * **data/Table_S3_database**: Full database
