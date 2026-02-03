@@ -40,7 +40,7 @@ Coral reefs are experiencing unprecedented global declines driven by intensifyin
 ### Outputs
 
 * **outputs/merged_profs.csv**: merged profile data from all datasets downloaded from SymPortal
-* **outputs/merged_data.csv**: merged metadata from all datasets downloaded from SymPortal
+* **outputs/merged_data.csv**: merged metadata from all datasets downloaded from SymPortal (needs to be unzipped before using)
 * **outputs/c_unidist.rds**: calculated UniFrac distances from *Cladocopium* profiles
 * **outputs/d_unidist.rds**: calculated UniFrac distances from *Durusdinium* profiles
 * **outputs/cd_cophy.rds** PACo results and permutation test for *Cladocopium*-*Durusdinium* phylogenetic congruence
